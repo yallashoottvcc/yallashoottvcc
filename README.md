@@ -1,16 +1,15 @@
-## Hi there 👋
+## Yalla shoot TV
 
-<!--
-**yallashoottvcc/yallashoottvcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yalla Shoot TV adalah 1 website gratis teratas dengan akses tercepat untuk menonton siaran langsung sepak bola gratis di Indonesia. Dengan pengalaman akses bebas lag, bebas iklan, dan aman.
 
-Here are some ideas to get you started:
+- Address: Bogor, Indonesia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Phone: 629614495005
+
+- Website: https://yallashoottv.cc/
+
+https://www.pinterest.com/yallashoottvcc/
+
+https://www.youtube.com/channel/UCAj-ivP5svoV-TOsV6w3Gqw
+
+https://gravatar.com/yallashoottvcc
